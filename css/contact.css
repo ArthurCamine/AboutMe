@@ -1,39 +1,41 @@
 .contact {
-    padding: 30px;
+  padding: 30px;
 }
-
 .contact + div {
-    padding: 20px;
+  padding: 20px;
 }
 
 form {
-    text-align: left;
+  text-align: left;
 }
-
 form label {
-    display: block;
-    margin: 10px;
+  display: block;
+  margin: 10px;
 }
-
-form input,
-form textarea {
-    margin: 0 10px;
-    border-radius: 2px;
-    border: 1px solid #dfdfdf;
-    width: 100%;
+form input, form textarea {
+  padding: 2px 5px;
+  margin: 0 10px;
+  border-radius: 2px;
+  border: 1px solid #dfdfdf;
+  width: 100%;
+  resize: none;
 }
-
 form input {
-    height: 25px;
+  height: 25px;
+}
+form button {
+  margin: 10px;
 }
 
 .half img {
-    width: 30px;
-    height: 30px;
-    text-decoration: none;
+  width: 30px;
+  height: 30px;
+  text-decoration: none;
 }
 
 section p {
-    text-align: center;
-    margin: 20px;
+  text-align: center;
+  margin: 20px;
 }
+
+/*# sourceMappingURL=contact.css.map */

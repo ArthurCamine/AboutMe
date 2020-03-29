@@ -1,7 +1,8 @@
 .about-me {
-    padding: 30px;
+  padding: 30px;
+}
+.about-me p {
+  margin: 0;
 }
 
-.about-me p {
-    margin: 0;
-}
+/*# sourceMappingURL=about-me.css.map */

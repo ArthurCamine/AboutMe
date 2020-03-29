@@ -1,0 +1,48 @@
+.contact {
+    padding: 30px;
+
+    + div {
+        padding: 20px;
+    }
+}
+
+form {
+    text-align: left;
+
+    label {
+        display: block;
+        margin: 10px;
+    }
+
+    input, textarea {
+        padding: 2px 5px;
+        margin: 0 10px;
+        border-radius: 2px;
+        border: 1px solid #dfdfdf;
+        width: 100%;
+        resize: none;
+    }
+
+    input {
+        height: 25px;
+    }
+
+    button {
+        margin: 10px;
+    }
+}
+
+.half {
+    img {
+        width: 30px;
+        height: 30px;
+        text-decoration: none;
+    } 
+}
+
+section {
+    p {
+        text-align: center;
+        margin: 20px;
+    }
+}
