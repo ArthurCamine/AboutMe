@@ -35,12 +35,14 @@ form button {
   text-align: left;
 }
 .half .error {
-  height: 20px;
-  color: #bdbdbd;
-  border-top: 0.5px solid #dfdfdf;
-  position: absolute;
-  bottom: 0;
-  width: 70.5%;
+  color: #ddfddf;
+  background-color: #ff4d4d;
+  width: 100%;
+  list-style: none;
+  margin: 10px;
+  border-radius: 4px;
+  padding: 5px;
+  font-size: 14px;
 }
 
 section p {
